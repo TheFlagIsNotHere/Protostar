@@ -20,7 +20,7 @@ ELF("./stack0")
 """
 
 #The modified variable is created after a buffer of 64 bytes.
-#It's enough to fill the buffer(of 64 bytes) and then to add 1 octect in order to modify the value of the variable.
+#It's enough to fill the buffer(of 64 bytes) and then to add 1 octet in order to modify the value of the variable.
 #
 #
 #man get : 
