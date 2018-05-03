@@ -1,6 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+#Author : Ori0n__
+#Team : TheFlagIsNotHere
+
 from pwn import *
 
 binary = process("./stack0")
